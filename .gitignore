@@ -1,7 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
 # Exclude credential files
-.env
 *.p12
 *.pem
 *.crt
