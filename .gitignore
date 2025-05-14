@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 # Created by .ignore support plugin (hsz.mobi)
 ### Python template
+=======
+# Exclude credential files
+*.env
+*.p12
+*.pem
+*.crt
+*.key
+*.config
+secrets.json
+
+# Exclude JetBrains IDE settings
+.idea/
+.idea/*
+>>>>>>> f32f9d0 (exclude credential file)
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
