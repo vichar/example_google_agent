@@ -3,7 +3,7 @@
 ### Python template
 =======
 # Exclude credential files
-*.env
+.env
 *.p12
 *.pem
 *.crt
